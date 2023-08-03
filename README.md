@@ -1,0 +1,4 @@
+- 👋 Olá, sou @erickdias10.
+- 👀 Estou interessado em fazer novos amigos e buscar oportunidades de DEV.
+- 🌱 Atualmente estou aprendendo Python, Java, Javascript e GitHub
+- 💞️ Estou procurando colaborar em projetos incríveis e tornar-me um Dev Full Stack.
