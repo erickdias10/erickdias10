@@ -1,4 +1,4 @@
-## 👋 Saudações! Meu nome é Erick Dias!
+## 👋 Olá! Meu nome é Erick Dias!
 #Graduando em **Engenharia de Software** e Pós-graduando em **Ciência de Dados e Big Data** :)
 
 #Graduado em **Administração** e Pós-graduado em **Docencia do Ensino Superior** :)
