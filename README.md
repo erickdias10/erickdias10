@@ -7,13 +7,15 @@
 
 💻 Atualmente mais focado em:
 <div style="display: inline">
-<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" />
-<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img width='50' heidht='50' src="https://i.pinimg.com/originals/bd/d9/55/bdd955e1d87b01b4cc1bcfc6b69e06d7.png" /><!-- Excel -->
+<img width='50' heidht='50' src="https://learn.microsoft.com/pt-br/training/achievements/get-started-power-bi.svg" /><!-- Power Bi -->
+<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><!-- Python -->
+<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><!-- MySQL -->
+<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /><!-- Pandas -->
+<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /><!-- Anaconda -->
+<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /><!-- Kaggle -->
+<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /><!-- MongoDB -->
+<img width='50' heidht='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" /><!-- R -->
 </div>
 
 ##
