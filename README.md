@@ -9,6 +9,8 @@
 
 - 📝 Contribuo com artigos em: [Artigos](https://sites.google.com/view/techdatafusion/artigos)
 
+- 📝 Acompanhe meu desenvolvimento e habilidades em: [DIO](https://www.dio.me/users/erickdyas)
+
 - 💬 Posso oferecer ajuda em **Power BI, Excel, SQL e Python**
 
 - 📫 Contate-me via e-mail: **erickdyas@gmail.com**
